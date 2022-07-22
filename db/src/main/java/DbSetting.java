@@ -1,5 +1,3 @@
-package org.example.db;
-
 public class DbSetting {
 
     private String name;

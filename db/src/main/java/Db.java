@@ -1,5 +1,3 @@
-package org.example.db;
-
 import java.util.UUID;
 
 public class Db {

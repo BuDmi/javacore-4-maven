@@ -1,9 +1,3 @@
-package org.example.service;
-
-import org.example.db.Db;
-import org.example.db.DbSetting;
-import org.example.db.MyEntity;
-
 import java.util.UUID;
 
 public class MyService {
